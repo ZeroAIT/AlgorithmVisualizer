@@ -1,0 +1,20 @@
+RESULTS
+
+Through a survey conducted by us we inferred that 60% of the students responded better to understanding
+concepts through visualization rather than their own imagination or the regular teaching methods.
+ It's been proved time and again through different experiments and research on masses that any kind of
+visual aid such as an image, a video or even an animation clip tends to be remembered more by humans.
+ Not only will the visualization help but due to features of mazes and patterns in our application, the
+students can relate the working of the algorithms to real life examples ( likes obstructions in the form of
+walls).
+ Often we see teachers struggling to make students understand concepts such as algorithms without it
+getting monotonous, that's where our project comes into play as a great teaching aid. Because of our user
+friendly and engaging interface the problem of distraction or losing interest tends to decrease, making it
+very efficient.
+ Our project can easily be incorporated alongside our education system by promoting different ways of
+learning rather than the age old blackboard method as we just need to access a website hosted on the
+internet to use the application.
+ And with uncertain times like nowadays, we cannot only afford to be dependent only on our teachers and
+one to one offline teaching to understand different concepts. E-learning is the new age learning technique
+and our project is a step towards reinforcing this method of learning.
+

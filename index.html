@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ALGORITHM VISUALIZER </title>
+  <link href='https://fonts.googleapis.com/css?family=Nova Flat' rel='stylesheet'>
+  <style>
+    body {
+        text-align: center;
+    }
+    h1 {
+        font-family: 'Nova Flat';font-size: 22px;
+    }
+</style>
+  <link rel="stylesheet" href="index/index.css">
+  <script>
+  var dropdown = $('.dropdown');
+var item = $('.item');
+
+item.on('click', function() {
+item.toggleClass('collapse');
+
+if (dropdown.hasClass('dropped')) {
+  dropdown.toggleClass('dropped');
+} else {
+  setTimeout(function() {
+    dropdown.toggleClass('dropped');
+  }, 150);
+}
+})
+</script>
+</head>
+<body>
+  <div class="center">
+   <button class="button-85" role="button" onclick="window.location.href='../About Me/prajwal.html'">About Us</button>  
+  </div>
+  <p><br><br><br>
+    <button class='glowing-btnn'><span class='glowing-txtt'>ALGORITHM VISUALIZER</span></button><br><br><br><br><br><br><br><br><br>
+    <button class='glowing-btn' onclick="window.location.href = 'sort/sort.html';"><span class='glowing-txt'>S<span class='faulty-letter'>O</span>RT</span></button><br><br><br><br><br>
+    <button class='glowing-btn' onclick="window.location.href = 'path/path.html';"><span class='glowing-txt'>SHOR<span class='faulty-letter'>TEST  </span>PATH</span></button><br><br><br><br><br>
+    <button class='glowing-btn' onclick="window.location.href = 'search/search.html';"><span class='glowing-txt'>SE<span class='faulty-letter'>AR</span>CH</span></button><br><br><br><br><br>
+  </p>
+</body>
+  </html>
